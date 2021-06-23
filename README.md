@@ -1,2 +1,1 @@
-# MIE1624
-Introduction to Data Science and Analytics
+## Introduction to Data Science and Analytics
